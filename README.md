@@ -1,1 +1,3 @@
 # Enhancing-Sales-Forecast-Accuracy-through-Machine-Learning-models-used-in-a-Major-Business-Unit
+
+This notebook use integration of machine learning techniques, including time series models like ARIMA, to enhance monthly sales forecasts for select product groups in a major business unit in Germany. By analyzing historical sales data from October 2018 to April 2022 and significant macro-economic indices, this project aims to replace labor-intensive manual forecasts. The effectiveness of these models will be quantitatively evaluated using the RMSE metric, emphasizing how advanced forecasting techniques can significantly impact working capital efficiency and customer satisfaction.
